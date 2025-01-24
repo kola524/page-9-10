@@ -1,0 +1,7 @@
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task8\bin\Debug\task8.exe.config
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task8\bin\Debug\task8.exe
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task8\bin\Debug\task8.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task8\obj\Debug\task8.csproj.AssemblyReference.cache
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task8\obj\Debug\task8.csproj.CoreCompileInputs.cache
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task8\obj\Debug\task8.exe
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task8\obj\Debug\task8.pdb

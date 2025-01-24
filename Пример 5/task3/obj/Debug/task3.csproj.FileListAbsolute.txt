@@ -1,0 +1,7 @@
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task3\bin\Debug\task3.exe.config
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task3\bin\Debug\task3.exe
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task3\bin\Debug\task3.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task3\obj\Debug\task3.exe
+C:\Users\Николай\OneDrive\Рабочий стол\page 9-10\Пример 5\task3\obj\Debug\task3.pdb
